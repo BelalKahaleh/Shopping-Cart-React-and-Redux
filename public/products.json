@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Syria",
+        "price": 274,
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": "Jordan",
+        "price": 210,
+        "image": ""
+    },
+    {
+        "id": 3,
+        "name": "palestine",
+        "price": 150,
+        "image": ""
+    }
+]
